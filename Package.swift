@@ -9,6 +9,6 @@ let package = Package(
             targets: ["ZohoDeskPortalConfiguration"])
     ],
     targets: [
-        .binaryTarget(name: "ZohoDeskPortalConfiguration", url: "https://maven.zohodl.com/ZohoDesk/ZohoDeskPortalConfiguration/3.0.13/ZohoDeskPortalConfiguration.zip", checksum: "a7ae0ed6b75f02448af28179e9e4ea54d8da4dc97c689bbd032cfb624e35a560")
+        .binaryTarget(name: "ZohoDeskPortalConfiguration", url: "https://maven.zohodl.com/ZohoDesk/ZohoDeskPortalConfiguration/4.0.0-beta.2/ZohoDeskPortalConfiguration.zip", checksum: "d22cebc82a2efc4ff0490c3329cfa57025658f2e11b7b8babdba6d6a2615b757")
     ]
 )
