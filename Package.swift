@@ -9,7 +9,7 @@ let package = Package(
             targets: ["ZohoDeskPortalConfiguration", "ZohoDeskPortalConfigurationPackage"])
     ],
     dependencies: [
-        .package(url: "https://github.com/LakshmiChidambaranathan/ZohoDeskPlatformUIKit.git", branch: "main"),
+        .package(url: "https://github.com/LakshmiChidambaranathan/ZohoDeskPlatformUIKit.git", exact: "0.0.1"),
         .package(url: "https://github.com/Wasim2708/ZohoDeskPortalAPIKit.git", exact: "4.0.1")
     ],
     targets: [
