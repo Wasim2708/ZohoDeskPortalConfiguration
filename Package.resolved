@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/LakshmiChidambaranathan/ZohoDeskPlatformUIKit.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "d5b7237a38deb0a086f690518ff6e1c85008fbdf"
+        "revision" : "d5b7237a38deb0a086f690518ff6e1c85008fbdf",
+        "version" : "0.0.1"
       }
     },
     {
