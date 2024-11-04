@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "zohodeskplatformuikit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LakshmiChidambaranathan/ZohoDeskPlatformUIKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d5b7237a38deb0a086f690518ff6e1c85008fbdf"
+      }
+    },
+    {
+      "identity" : "zohodeskportalapikit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Wasim2708/ZohoDeskPortalAPIKit.git",
+      "state" : {
+        "revision" : "dcb3d81d6599bcab4f9052b02d8f42b650d92030",
+        "version" : "4.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
