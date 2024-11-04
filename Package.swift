@@ -18,6 +18,8 @@ let package = Package(
             name: "ZohoDeskPortalConfigurationPackage",
             dependencies: [
                 .product(name: "ZohoDeskPlatformUIKit", package: "ZohoDeskPlatformUIKit"),
+                .product(name: "ZDMediaPickerSDK", package: "ZohoDeskPlatformUIKit"),
+                .product(name: "ZohoDeskPlatformDataBridge", package: "ZohoDeskPlatformUIKit"),
                 .product(name: "ZohoDeskPortalAPIKit", package: "ZohoDeskPortalAPIKit")
             ]
         ),
